@@ -3,8 +3,8 @@ Challenge "Análise de Dados com Python e Pandas" of the course "Formação Pyth
 
 3 databases were used: 
 1. GDP per capita all countries (kaggle);
-2. 2. Life Expectancy (Gapminder); 
-3. 3. Happiness Score (kaggle);
+2. Life Expectancy (Gapminder); 
+3. Happiness Score (kaggle);
 
 
 In addition, Pandas, MatPlotLib and Seaborn libraries were used.
